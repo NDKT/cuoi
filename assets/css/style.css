@@ -150,11 +150,15 @@ button {
 
 @media (max-width: 800px) {
     #yes {
-        top: 65%;
+        top: 70%;
+        left: 30%;
+        width: 200px;
     }
 
     #no {
-        top:75%;
+        top: 80%;
+        left: 30%;
+        width: 200px;
     }
 
     .modal-container {
