@@ -151,13 +151,14 @@ button {
 @media (max-width: 800px) {
     #yes {
         top: 70%;
-        left: 30%;
+        right: 30%;
         width: 200px;
+        left: unset;
     }
 
     #no {
         top: 80%;
-        left: 30%;
+        right: 30%;
         width: 200px;
     }
 
